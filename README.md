@@ -297,15 +297,6 @@ Top 5 most important features:
 
 This project is created for educational and portfolio purposes.
 
-## Author
-
-**Your Name**
-Data Scientist | Machine Learning Engineer
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## Acknowledgments
 
 - Dataset inspired by real-world credit card fraud patterns
@@ -313,5 +304,3 @@ Data Scientist | Machine Learning Engineer
 - Model evaluation metrics aligned with business objectives
 
 ---
-
-**Note**: This is a portfolio project demonstrating end-to-end machine learning capabilities in fraud detection. The data is synthetic and generated for educational purposes.
